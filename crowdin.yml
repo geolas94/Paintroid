@@ -22,14 +22,14 @@ files: [
   # e.g. "/resources/en/*.json"
   #
   "source" : "/Paintroid/src/main/res/values/string.xml",
-  "source" : "/colorpicker/src/main/res/values/string.xml",
+
 
   #
   # Where translations will be placed
   # e.g. "/resources/%two_letters_code%/%original_file_name%"
   #
   "translation" : "/Paintroid/src/main/res/values-%android_code%/string.xml",
-  "translation" : "/colorpicker/src/main/res/values-%android_code%/string.xml",
+ 
 
   #
   # Files or directories for ignore
@@ -42,7 +42,7 @@ files: [
   # e.g. "/messages.json"
   #
   "dest" : "/paintroid/paintroid/string.xml",
-  "dest" : "/paintroid/colorpicker/string.xml",
+  
 
   #
   # File type
